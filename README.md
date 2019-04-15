@@ -6,7 +6,7 @@ all dialogue system modules
 http://dialogue.mi.eng.cam.ac.uk/index.php/pydial/
 
 ParlAI: “A unified platform for sharing, training, and evaluating dialog models
-across many tasks”
+across many tasks”\
 http://parl.ai/
 
 DeepPavlov: another open-source conversational AI library
