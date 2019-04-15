@@ -1,5 +1,5 @@
 # Conversational-AI
-List of softwares 
+List of softwares (Taken from https://poly-ai.com/ASSETS/FILES/naacl18.pdf)
 
 PyDial: open-source toolkit with implementations of statistical approaches for all dialogue system modules<br/>
 http://dialogue.mi.eng.cam.ac.uk/index.php/pydial/
