@@ -23,23 +23,23 @@ https://github.com/shawnwun/NNDIAL
 RNNLG: NLG using RNNs <br/>
 https://github.com/shawnwun/RNNLG
 
-Neural Dialogue Generation: implementations of NLG methods from the Stanford NLP Group\
+Neural Dialogue Generation: implementations of NLG methods from the Stanford NLP Group <br/>
 https://github.com/jiweil/Neural-Dialogue-Generation
 
-Other open-source NLG software\
-https://github.com/simplenlg/simplenlg\
-http://www.fb10.uni-bremen.de/anglistik/langpro/kpml/README.html\
+Other open-source NLG software <br/>
+https://github.com/simplenlg/simplenlg <br/>
+http://www.fb10.uni-bremen.de/anglistik/langpro/kpml/README.html <br/>
 http://nlp.cs.aueb.gr/software.html
 
-Deep RL: a simple deep RL dialogue system\
+Deep RL: a simple deep RL dialogue system <br/>
 https://github.com/cuayahuitl/SimpleDS
 
-Attract-Repel: tool for word vector space specialisation\
+Attract-Repel: tool for word vector space specialisation <br/>
 https://github.com/nmrksic/attract-repel
 
-DSTC: data and scripts from the latest campaigns\
-https://github.com/oplatek/sds-tracker\
-https://github.com/hkhpub/dstc4\
-https://github.com/seokhwankim/dstc5\
-https://github.com/perezjln/dstc6-goal-oriented-end-to-end\
+DSTC: data and scripts from the latest campaigns <br/>
+https://github.com/oplatek/sds-tracker <br/>
+https://github.com/hkhpub/dstc4 <br/>
+https://github.com/seokhwankim/dstc5 <br/>
+https://github.com/perezjln/dstc6-goal-oriented-end-to-end <br/>
 https://github.com/dialogtekgeek/DSTC6-End-to-End-Conversation-Modeling
