@@ -1,26 +1,26 @@
 # Conversational-AI
 List of softwares 
 
-PyDial: open-source toolkit with implementations of statistical approaches for all dialogue system modules\
+PyDial: open-source toolkit with implementations of statistical approaches for all dialogue system modules<br/>
 http://dialogue.mi.eng.cam.ac.uk/index.php/pydial/
 
-ParlAI: “A unified platform for sharing, training, and evaluating dialog models across many tasks”\
+ParlAI: “A unified platform for sharing, training, and evaluating dialog models across many tasks” <br/>
 http://parl.ai/
 
-DeepPavlov: another open-source conversational AI library\
+DeepPavlov: another open-source conversational AI library <br/>
 https://github.com/deepmipt/DeepPavlov
 
-NBT: Implementation of the fully statistical NBT DST model\
+NBT: Implementation of the fully statistical NBT DST model <br/>
 https://github.com/nmrksic/neural-belief-tracker
 
-Different DST Models available on GitHub\
-https://github.com/CallumMain/DNN-DST\
+Different DST Models available on GitHub <br/>
+https://github.com/CallumMain/DNN-DST <br/>
 https://github.com/voicy-ai/DialogStateTracking 
 
-NNDial: end-to-end trainable task-based systems\
+NNDial: end-to-end trainable task-based systems <br/>
 https://github.com/shawnwun/NNDIAL
 
-RNNLG: NLG using RNNs\
+RNNLG: NLG using RNNs <br/>
 https://github.com/shawnwun/RNNLG
 
 Neural Dialogue Generation: implementations of NLG methods from the Stanford NLP Group\
